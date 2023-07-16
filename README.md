@@ -1,7 +1,7 @@
 # Himoleikit
 A Finnish Hunger Games simulator parody
 
-Made in 2022 during spring.
+Made in 2022 during spring to "play" with my friends.
 
 # Usage
 To add characters open `HimoHahmot.wene` and write their names in there. Each line is their own character.
