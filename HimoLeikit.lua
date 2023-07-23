@@ -30,7 +30,7 @@ function Nimet()
 	end--]]
 	x=1
 	bleeh=io.open("HimoHahmot.wene");mehmet=bleeh:lines()
-	for miau in kives do
+	for miau in mehmet do
 		nimet[x]=miau
 		x=x+1
 	end
